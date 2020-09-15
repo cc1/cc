@@ -1,2 +1,2 @@
-# cc
-personal site
+# chris coldewey
+about me
